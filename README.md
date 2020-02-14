@@ -86,4 +86,12 @@ A conclusão deve conter uma análise reflexiva a respeito dos resultados obtido
 
 ### Referências Bibliográficas
 
+O texto presente em cada um dos capítulos contém várias afirmações. A maior parte destas afirmações não são do estudante que está escrevendo o TCC mas sim de outras pessoas. O texto, portanto, é fruto de um trabalho coletivo. Ninguém trabalha sozinho e cria conhecimento sozinho.
+
+Um dos grandes desafios de um TCC é deixar claro para o leitor quais afirmações são de autoria do escritor (estudante) e quais são de outras pessoas.
+
+Em relação aos capítulos, o de Introdução sempre possui algumas referências que ajudam o leitor a entender que o estudante não está sozinho (ele não é a primeira pessoa a pensar sobre as coisas que está escrevendo). O capítulo seguinte, da Fundamentação Teórica e Tecnológica, é feito 100% por afirmações de terceiros e, por isso, é o que possui a maior parte das referências bibliográficas. Nada do que está escrito neste capítulo é criação do estudante. O capítulo 3, de Desenvolvimento, normalmente não possui referências bibliográficas pois tudo o que está escrito constitui no uso de conceitos já apresentados no capítulo 2. O capítulo 4, de Resultados Obtidos, também normalmente não possui referências pois apenas descreve os resultados obtidos. Finalmente, o capítulo de Conclusão também normalmente não possui referências bibliográficas pois o seu conteúdo é 100% de autoria e responsabilidade do autor.
+
 ### Apêndices
+
+Os apêndices, que são opcionais, contêm informações detalhadas que não são necessárias para a compreensão do texto principal. Por exemplo, o TCC implicou no desenvolvimento de um questionário que foi utilizado para saber a opinião dos usuários a respeito do sistema desenvolvido no TCC. O questionário que foi apresentado deve aparecer completo em um apêndice. Outro exemplo, o procedimento de implantação e configuração do sistema poderia fazer parte de outro apêndice. Mais um exemplo: o capítulo 3 apresenta o resultado final do processo de análise, projeto e implementação do sistema. Esse resultado final é o resultado da aplicação de alguma metodologia de desenvolvimento de software. O apêndice, neste caso, seria a documentação gerada pela aplicação desta metodologia. Em metodologias como Scrum, as sprints fariam parte do apêndice.
